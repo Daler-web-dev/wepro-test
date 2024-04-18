@@ -1,0 +1,211 @@
+{
+	"header": {
+		"nav": {
+			"home": "Bosh sahifa",
+			"courses": "Kurslar va narxlar",
+			"reviews": "Sharhlar",
+			"groups": "Guruhga ro'yxatdan o'ting"
+		},
+		"menu": {
+			"title": "Menyu",
+			"course": "Kurslar",
+			"pages": "Sahifa bo'limlari",
+			"contact": "Aloqa uchun kontaktlar",
+			"Social": "Ijtimoiy tarmoqlar"
+		},
+		"button": "mutaxassis maslahati"
+	},
+	"homePage": {
+		"Hero": {
+			"title": "4 oy ichida noldan PRO gacha",
+			"dcr": "Wepro — Samarqanddagi IT maktablar tarmog‘i",
+			"buttton": "O'qishni boshlash",
+			"buttton2": "Barcha kurslarni ko'rish"
+		},
+		"howOur": {
+			"title": "Nima uchun Weproni tanlaydilar",
+			"text": "o'quv dasturlari",
+			"text2": "bitiruvchilar 3 yil ichida",
+			"text3": "O'quv materialiga kirish",
+			"text4": "talabalar o'qishdan keyin ish topadilar",
+			"look": "Sharhlarni ko'rib chiqing",
+			"name": "Yusupov Mansur"
+		},
+		"courses": {
+			"title": "Mualliflik kurslari"
+		},
+		"reviews": {
+			"title": "Bitiruvchilarning sharhlari",
+			"dcr": "Kurs bitiruvchilari biz haqimizda nima deyishiga qarang"
+		},
+		"included": {
+			"party": "O'qish narxiga yana nima kiradi",
+			"itemTitile": "Tadbirlar",
+			"itemDcr": "Biz o'quvchilarimiz uchun markazlar ichida turli tadbirlarni tashkil qilamiz.",
+			"itemTitile2": "Kovorkingga zona",
+			"itemDcr2": "Kovorking - bu qo'shimcha mashq qilish uchun zarur bo'lgan barcha narsalar bilan hudud.",
+			"itemTitile3": "Shaxsiy kabinet",
+			"itemDcr3": "Siz o'quv jarayonini ko'rish uchun shaxsiy kabinetga kirishingiz mumkin.",
+			"itemTitile4": "Bonusga ingliz tili",
+			"itemDcr4": "Talabalar o'quv holati, baholari va davomatini kuzatish uchun platformaga kirishadi."
+		},
+		"branch": {
+			"title": "Filialni tanlang",
+			"dcr": "Ayni paytda Samarqandning eng qulay joylarida 2 ta filial faoliyat yuritmoqda. Barcha filiallar ilg'or texnologiyalar bilan jihozlangan, yuqori darajadagi o'qish uchun eng yaxshi sharoitlar yaratilgan.",
+			"button": "Birinchi filial",
+			"button2": "Ikkinchi filial",
+			"address": "Buyuk Ipak Yuli 52",
+			"address2": "Mirzo Ulug'bek, 12",
+			"reference": "Ориентир: Ona xaykal",
+			"reference2": "Ориентир: Chexov teatri",
+			"button3": "Arizani qoldiring"
+		},
+		"studentWorks": {
+			"title": "Работы студентов",
+			"dcr": "Выпускники курса — настоящие профи. Мы упаковали некоторые из кейсов, чтобы показать их вам: вы сможете так же. И даже еще лучше.",
+			"tabs": {
+				"tab": "Frontend-разработка",
+				"tab2": "Разработка под iOS/Android",
+				"tab3": "Графический дизайн",
+				"tab4": "Веб-дизайн",
+				"tab5": "SMM",
+				"tab6": "Мобилография"
+			},
+			"button": "Посмотреть все отзывы"
+		},
+		"company": {
+			"title": "Bitiruvchilarimiz ishlaydigan kompaniyalar",
+			"dcr": "Biz sohadagi eng yaxshi bo'sh ish o'rinlarini to'playmiz, sizni suhbatlarga tayyorlaymiz va hamkor kompaniyalarga tavsiya qilamiz."
+		},
+		"english": {
+			"title": "Weprodan Speaking ga qaratilgan ingliz maktabi",
+			"dcr": "Allaqachon 30 000 dan ortiq talabalarimiz ingliz tilida ishonchli so'zlashadi - bu tilni ham o'zlashtiring!",
+			"button": "Veb-saytga o'ting"
+		},
+		"form": {
+			"title": "Kursga yoziling",
+			"dcr": "So'rov qoldiring va ochiq darsda mutlaqo bepul qatnashish imkoniyatini qo'lga kiriting.",
+			"lable": "Sizning ismingiz va familiyangiz",
+			"inp": "Sizning ismingiz va familiyangiz",
+			"lable2": "Номер телефона",
+			"inp2": "Raqamni kiriting",
+			"button": "So'rov yuboring",
+			"text": "Tugmani bosish orqali siz shaxsiy ma'lumotlarni qayta ishlashga rozilik bildirasiz",
+			"text2": "Yoki bizga yozing",
+			"telegram": "Telegram"
+		},
+		"faq": {
+			"title": "Savollarga javoblar"
+		},
+		"footer": {
+			"title": "Bepul maslahat",
+			"dcr": "Kontaktlaringizni qoldiring va kurs, dastur va ma'ruzachilar bo'yicha bepul maslahat oling.",
+			"inp": "Sizning ismingiz",
+			"inp2": "Raqamni kiriting",
+			"select": {
+				"option": "Tanlanmagan",
+				"option1": "Bilbordlar",
+				"option2": "Do'stlar orqali"
+			},
+			"button": "So'rov yuboring",
+			"text": "Kelajak kasblari uchun kasbiy tayyorgarlik",
+			"courses": "Kurslar:",
+			"contacts": "Kontaktlar:",
+			"net": "Ijtimoiy tarmoqlar:",
+			"address": "Samarqand, Buyuk Ipak yo'li 52",
+			"address2": "Mirzo Ulug‘bek, 35 yosh"
+		}
+	},
+	"faq": {
+		"title": "Savollarga javoblar",
+		"question": "Bepul ochiq dars nima?",
+		"answer": "Bepul ochiq dars - bu bizning kurslarimizni bepul sinab ko'rish imkoniyatidir. Siz o'qituvchi bilan shaxsan uchrashishingiz, unga savollar berishingiz va mashg'ulot formati, o'qitish usullari va kurs mazmuni haqida tasavvurga ega bo'lishingiz mumkin.",
+		"question1": "Как записаться на курс?",
+		"answer1": "Biz bilan kursga yozilish juda oson. Anketani yoki uchrashuv so'rovini to'ldirish orqali biz bilan veb-saytimiz orqali bog'lanishingiz mumkin. Shuningdek, +90 197 71 00 raqamiga qo'ng'iroq qilishingiz yoki ofisimizga shaxsan tashrif buyurishingiz mumkin. Bizning menejerlarimiz sizga tegishli kursni tanlashda va ro'yxatdan o'tish uchun barcha kerakli hujjatlarni to'ldirishda yordam berishdan xursand bo'lishadi. Biz sizning barcha savollaringizga javob berishga va yangi bilim va ko'nikmalar sari yo'lingizni boshlashingizga yordam berishga tayyormiz!",
+		"question2": "Sizning o'qituvchilaringiz kimlar?",
+		"answer2": "O'qituvchilarimiz IT sohasida katta tajribaga ega yuqori malakali mutaxassislardir. Shuni ta’kidlash kerakki, barcha o‘qituvchilarimiz markazimizda dars berishlariga qaramay, o‘z faoliyat yo‘nalishlarida faollik ko‘rsatib kelmoqda. Bu ularga o‘z sohalaridagi so‘nggi tendensiya va yangiliklardan xabardor bo‘lish va bu bilimlarni talabalarimiz bilan baham ko‘rish imkonini beradi. Siz bizning kurslarimizga tashrif buyurib, o'qituvchilarimizning malakasini shaxsan tekshirishingiz mumkin",
+		"question3": "Смогу ли я совмещать обучение и работу?",
+		"answer3": "Да, мы предлагаем гибкий график занятий, который позволяет вам совмещать обучение с работой. Большинство наших занятий проводятся в удобное для вас время, что облегчает процесс обучения и помогает вам достичь поставленных целей.",
+		"question4": "Men yangi boshlovchiman, kursingiz menga mos keladimi?",
+		"answer4": "Ha. Kursga yozilish uchun maxsus bilim talab etilmaydi. Asosiysi, darslarni tomosha qilish, uy vazifasini bajarish va o'qituvchini tinglash.",
+		"question5": "Uy vazifasi qanday tekshiriladi?",
+		"answer5": "Uyga berilgan topshiriqlar tajribali o‘qituvchilarimiz tomonidan tekshiriladi, ular o‘quvchilarga sifatli fikr-mulohaza va yordam beradi. Biz har bir talabaga individual e'tibor qaratishga va ularning malakasini oshirishga va natijalarini yaxshilashga yordam berishga intilamiz.",
+		"question6": "Trening qaysi tilda?",
+		"answer6": "Qaysi guruhga kirishingizga qarab rus va o'zbek tillarida o'qitishni taklif etamiz",
+		"question7": "Men darsni qoldirdim, nima qilishim kerak?",
+		"answer7": "Agar siz darsni o'tkazib yuborgan bo'lsangiz, xavotir olmang, darsdan so'ng darhol telegram guruhiga yuboriladigan dars yozuvini ko'rishingiz mumkin. Agar siz o'tkazib yuborgan material haqida savollaringiz bo'lsa, ikkilanmasdan professorlaringizga murojaat qiling. Guruhning umumiy rivojlanishini kuzatib borish uchun darslarni o'tkazib yubormaslik muhimdir.",
+		"question8": "Men hali maktabdaman. Men darslarga qatnasha olamanmi?",
+		"answer8": "Ha albatta! Biz barcha yoshdagi talabalarni qabul qilamiz. Bizning markazimizda maktab o'quvchilari va kattalar uchun mos bo'lgan kurslar mavjud. Shuni ta'kidlash kerakki, bizning kasbiy kurslarimiz 14 va undan katta yoshdagi talabalar uchun mavjud, ammo biz yosh cheklovlarisiz kompyuter savodxonligi kurslarini ham taklif qilamiz. Asosiysi, sizning IT sohasini o'rganishga bo'lgan qiziqishingiz va o'rganishga tayyorligingiz.",
+		"question9": "Treningdan keyin ishlay olamanmi?",
+		"answer9": "Agar siz o'rganishga etarlicha kuch sarflasangiz, osongina ish topishingiz mumkin. Ayniqsa, eng muvaffaqiyatli bitiruvchilarimizga ishga joylashishda yordam berishga harakat qilamiz. Bunga erishish uchun muntazam ravishda mashg'ulotlarga qatnashish va tanlagan sohangiz bo'yicha o'z mahoratingizni sinchkovlik bilan oshirish juda muhimdir."
+	},
+	"courses": {
+		"title": "Wepro da biz kelajak kasblarini o'rgatamiz",
+		"tabs": {
+			"tab": "Barcha kurslar",
+			"tab2": "Dasturlash",
+			"tab3": "Dizayn",
+			"tab4": "Boshqalar"
+		}
+	},
+	"reviews": {
+		"title": "Wepro kurslari sharhlari",
+		"dcr": "Platformada o'qish haqida ongli qaror qabul qilishingiz biz uchun muhim. Shuning uchun, biz siz uchun Skillbox foydalanuvchilarining halol fikrlarini to'pladik - shu tarzda siz barcha ijobiy va salbiy tomonlarini baholashingiz va savollaringizga javob topishingiz mumkin."
+	},
+	"groups": "Tez orada ochiladigan guruhga yoziling",
+	"course": {
+		"hero": {
+			"duration": "Kurs davomiyligi",
+			"price": "Kurs to'lovi",
+			"number": "Darslar soni",
+			"button": "sinov darsiga yoziling",
+			"why": "Nima uchun dizayner bo'lish kerak?",
+			"vacancy": "Ish qidirish saytlarida",
+			"salary": "Ish haqi oralig'i",
+			"profession": "Talab qilinadigan kasb",
+			"hours": "soat",
+			"sum": "sum",
+			"months": "oy",
+			"lessons": "darslar"
+		},
+		"created": {
+			"title": "Siz yaratishingiz mumkin"
+		},
+		"vacancies": {
+			"title": "O'zbekistondagi bo'sh ish o'rinlari",
+			"salary": "3,000,000 so'mdan",
+			"text": "boshlang'ich grafik dizaynerning daromadi",
+			"vacancies": "3,000 dan ortiq bo'sh ish o'rinlari",
+			"text2": "ayni paytda ochiq",
+			"hh": "Headhunter O'zbekiston"
+		},
+		"studentsWork": {
+			"title": "Maktab bitiruvchilari kimlar ishlaydi",
+			"dcr": "Kursdan so'ng siz turli sohalarda ishlashingiz va eng yoqqanini tanlashingiz mumkin. Siz bir nechta kasblar uchun etarli ko'nikmalarga ega bo'lasiz.",
+			"additional": "Qo'shimcha kasblar:",
+			"button": "Kursga yoziling",
+			"month": "oy",
+			"from": ""
+		},
+		"suitableFor": {
+			"title": "Kurs kimga mos keladi"
+		},
+		"admissions": {
+			"title": "Yaqin atrofdagi guruhlarni ishga tushirish"
+		},
+		"reviews": {
+			"title": "Bitiruvchilarning sharhlari",
+			"dcr": "Kurs bitiruvchilari biz haqimizda nima deyishlarini ko'ring"
+		},
+		"lessons": {
+			"title": "O'quv dasturi",
+			"months": "oylar",
+			"lesson": "dars",
+			"hours": "soat",
+			"control": "nazorat",
+			"show": "Butun dasturni ko'rsatish",
+			"hide": "Dasturni yashirish",
+			"teachers": "Kurs kuratorlari"
+		}
+	}
+}
