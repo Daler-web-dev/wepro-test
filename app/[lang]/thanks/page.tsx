@@ -4,7 +4,7 @@ interface thanksProps {
 
 }
 
-const thanks: React.FC<thanksProps> = () => {
+const thanks: React.FC<thanksProps> = async () => {
     return (
         <>
             <section>
